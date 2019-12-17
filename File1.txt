@@ -1,1 +1,6 @@
 ftudrtiryityi
+class MyClass{
+	main(){
+	syso("fgudryudru")
+	}
+}
