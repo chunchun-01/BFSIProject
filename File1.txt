@@ -4,6 +4,7 @@ public class MyClass{
 	        String a="cfyidryirsdi";
 		System.out.println(a);
 		System.out.println("cfyidryirsdidfhkerdelrykerykse;rylerykse;rykwe");
+		cghfktly;df;udryur'ttd'etr';
 	
 	
 	}
