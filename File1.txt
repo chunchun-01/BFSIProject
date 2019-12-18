@@ -6,3 +6,9 @@ public class MyClass{
 		System.out.println("cfyidryirsdidfhkerdelrykerykse;rylerykse;rykwe");
 		cghfktly;df;udryur'ttd'etr';
 	}
+	public void method1()
+	{
+	sdgtjawetwette;
+	}
+	
+	}
