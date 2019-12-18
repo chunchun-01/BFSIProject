@@ -1,8 +1,9 @@
 
 public class MyClass{
 	public static void main(String args[]){
-	System.out.println("cfyidryirsdi);
-	int a;
+		System.out.println("cfyidryirsdi);
+		System.out.println("cfyidryirsdidfhkerdelrykerykse;rylerykse;rykwe");
+	
 	
 	}
 }
