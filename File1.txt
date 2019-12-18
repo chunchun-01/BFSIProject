@@ -1,10 +1,8 @@
 
 public class MyClass{
 	public static void main(String args[]){
-	        String a="cfyidryirsdi";
-		System.out.println(a);
-		System.out.println("cfyidryirsdidfhkerdelrykerykse;rylerykse;rykwe");
-	
+	        
+		
 	
 	}
 }
